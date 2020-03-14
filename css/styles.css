@@ -4,6 +4,7 @@ img {
 }
 .Head {
   background-color: beige;
+  position: relative;
 }
 h1 {
   font-family: 'Cookie', cursive;
@@ -17,4 +18,12 @@ h1 {
 @media screen and (min-width: 768px) {
 body {
   background-color: whitesmoke;
+}
+.important {
+  background-color: beige;
+}
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
