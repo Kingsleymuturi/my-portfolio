@@ -4,10 +4,11 @@ img {
 }
 .Head {
   background-color: beige;
-  position: relative;
+  position: static;
 }
 h1 {
   font-family: 'Cookie', cursive;
+  font-size: 100px;
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
   body {
@@ -26,4 +27,11 @@ body {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+}
+video {
+  border-radius: 25px;
+  width: 100%;
+}
+.Intro {
+  font-size: 25px;
 }
