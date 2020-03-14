@@ -1,4 +1,20 @@
 img {
   border-radius: 50%;
-  float: left
+  float: left;
+}
+.Head {
+  background-color: beige;
+}
+h1 {
+  font-family: 'Cookie', cursive;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  body {
+      background-color: black;
+      color: white;
+  }
+}
+@media screen and (min-width: 768px) {
+body {
+  background-color: whitesmoke;
 }
