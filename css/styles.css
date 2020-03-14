@@ -4,7 +4,7 @@ img {
 }
 .Head {
   background-color: beige;
-  position: relative;
+  position: static;
 }
 h1 {
   font-family: 'Cookie', cursive;
@@ -26,4 +26,7 @@ body {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+}
+video {
+  border-radius: 25px;
 }
