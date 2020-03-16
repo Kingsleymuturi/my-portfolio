@@ -35,5 +35,5 @@ During the creation of this webpage I majorly used HTML but also CSS came in han
 ## Support and contact details
 In case of anything find me here: kingsleymuturi9@gmail.com feel free to communicate any issue with the webpage
 
-### [License](https://github.com/Kingsleymuturi/my-portfolio/blob/master/LICENSE)
+### [LICENSE](https://github.com/Kingsleymuturi/my-portfolio/blob/master/LICENSE)
 Copyright (c) 2020 **Kingsleymuturi Tevinkamau**
