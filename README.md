@@ -34,6 +34,7 @@ To fix a bug or enhance an existing module, follow these steps:
 During the creation of this webpage I majorly used HTML but also CSS came in handy
 ## Support and contact details
 In case of anything find me here: kingsleymuturi9@gmail.com feel free to communicate any issue with the webpage
+
 ### LICENSE
 
 **LICENSE
