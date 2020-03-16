@@ -13,7 +13,7 @@
 ## Description
 This webpage is a portfolio that has information about Kingsley muturi and also links to other webpages he has created. The links directly direct you to other of his projects. It also contains a welcome video that welcomes you to his portfolio.
 ## Access
-* click the live link below to be directed directly to the webpage
+* click the live link to be directed directly to the webpage
 https://Kingsleymuturi.github.io/my-portfolio
 ## Known Bugs
 The video might fail to play.
