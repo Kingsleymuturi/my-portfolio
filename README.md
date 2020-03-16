@@ -36,7 +36,4 @@ During the creation of this webpage I majorly used HTML but also CSS came in han
 In case of anything find me here: kingsleymuturi9@gmail.com feel free to communicate any issue with the webpage
 
 ### LICENSE
-
-**LICENSE
-
 Copyright (c) 2020 **Kingsleymuturi Tevinkamau**
