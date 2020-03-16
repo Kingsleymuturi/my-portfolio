@@ -43,3 +43,15 @@ h2 {
 .button {
   font-size: 20px;
 }
+.contact {
+  font-family: 'Cookie', cursive;
+  font-size: 50px;
+}
+.facebook {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.details {
+  position: static;
+}
