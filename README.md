@@ -2,11 +2,13 @@
 <table>
 <tr>
 <td>
+  
 #### This is my own Portfolio that contains a list of projects I have done and more information about me, Current version 2020
-#### By **Kingsleymuturi,Tevinkamau**
-</td>
-</tr>
 </table>
+</tr>
+</td>
+#### By **Kingsleymuturi,Tevinkamau**
+  
 ## Description
 This webpage is a portfolio that has information about Kingsley muturi and also links to other webpages he has created. The links directly direct you to other of his projects. It also contains a welcome video that welcomes you to his portfolio.
 ## Access
