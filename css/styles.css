@@ -22,6 +22,7 @@ body {
 }
 .important {
   background-color: beige;
+  font-size: 25px;
 }
 .sticky {
   position: -webkit-sticky;
