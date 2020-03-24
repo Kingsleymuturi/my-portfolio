@@ -1,0 +1,73 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.header
+{
+  background: rgba(0,0,100,0.4);
+  height: 100vh;
+}
+.video-background
+{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -16;
+}
+@media (min-aspect-ratio:16/9) 
+{
+  .video-background
+  {
+    width: 100%;
+    height: auto;
+  }
+}
+@media (max-aspect-ratio:16/9) 
+{
+  .video-background
+  {
+    width: auto;
+    height: 100%;
+  }
+}
+.me
+{
+  border-radius: 50%;
+  height: 300px;
+  margin: 20px;
+}
+.h1
+{
+  font-family: 'Cookie', cursive;
+  font-size: 150px;
+  text-align: center;
+  position: relative;
+  font-weight: 100;
+  color: beige;
+}
+.Button
+{
+  font-size: 30px;
+  background-color: beige;
+  margin: 29pc;
+  padding: 20px 80px;
+  border: 1px solid coral;
+  border-radius: 25px;
+  text-decoration: none;
+}
+.Button:hover
+{
+  background: coral;
+  transition: .1s;
+}
+.fun
+{
+  font-size: 18px;
+  text-align: center;
+  color: beige;
+}
