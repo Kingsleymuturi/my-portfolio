@@ -43,16 +43,15 @@ h2 {
 }
 .button {
   font-size: 20px;
+  background-color: coral;
+  margin: 0;
+  padding: 10px 20px;
+  border: 1px solid coral;
+  border-radius: 25px;
+  text-decoration: none;
+  text-decoration-color: white;
 }
 .contact {
   font-family: 'Cookie', cursive;
   font-size: 50px;
-}
-.facebook {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-.details {
-  position: static;
 }
