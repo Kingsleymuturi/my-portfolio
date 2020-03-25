@@ -38,33 +38,25 @@ h2 {
   font-size: 60px;
 }
 .button {
-<<<<<<< HEAD
   font-size: 30px;
   background-color: azure;
-=======
   font-size: 20px;
-  background-color: coral;
   margin: 0;
->>>>>>> 6ff9358c9c45e0da5e20b5da5832a51687151ae7
   padding: 10px 20px;
   border: 1px solid coral;
   border-radius: 25px;
   text-decoration: none;
-<<<<<<< HEAD
 }
 .button:hover
 {
   background: aqua;
   text-decoration: none;
   transition: .1s;
-=======
   text-decoration-color: white;
->>>>>>> 6ff9358c9c45e0da5e20b5da5832a51687151ae7
 }
 .contact {
   font-family: 'Cookie', cursive;
   font-size: 50px;
-<<<<<<< HEAD
 }
 ol
 {
@@ -169,6 +161,3 @@ ol li a:hover .icon .fab
 {
   transform: translateY(-100%)
 }
-=======
-}
->>>>>>> 6ff9358c9c45e0da5e20b5da5832a51687151ae7
