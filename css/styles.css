@@ -4,14 +4,14 @@ img {
   float: left;
 }
 .Head {
-  background-color: beige;
+  background-color: rgb(199, 181, 164);
   position: static;
 }
 h1 {
   font-family: 'Cookie', cursive;
   font-size: 100px;
 }
-@media screen and (min-width: 480px) and (max-width: 767px) {
+@media screen and (min-width: 580px) and (max-width: 767px) {
   body {
       background-color: black;
       color: white;
@@ -22,17 +22,13 @@ body {
   background-color: whitesmoke;
 }
 .important {
-  background-color: beige;
+  background-color: rgb(199, 181, 164);
   font-size: 25px;
 }
 .sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-}
-video {
-  border-radius: 25px;
-  width: 100%;
 }
 .Intro {
   font-size: 25px;
@@ -42,17 +38,123 @@ h2 {
   font-size: 60px;
 }
 .button {
-  font-size: 20px;
+  font-size: 30px;
+  background-color: azure;
+  padding: 10px 20px;
+  border: 1px solid coral;
+  border-radius: 25px;
+  text-decoration: none;
+}
+.button:hover
+{
+  background: aqua;
+  text-decoration: none;
+  transition: .1s;
 }
 .contact {
   font-family: 'Cookie', cursive;
   font-size: 50px;
 }
-.facebook {
-  margin-left: auto;
-  margin-right: auto;
+ol
+{
+  position: absolute;
+  top: 157%;
+  left: 25%;
+  transform: translate(-50%,-50%);
+  margin: 0;
+  padding: 20px 0;
+  background: #fff;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.3);
+}
+ol li
+{
+  list-style: none;
+  text-align: center;
+  display: block;
+  border-right: 1px solid rgba(0,0,0,0.2);
+}
+ol li:last-child
+{
+  border-right: none;
+}
+ol li a
+{
+  text-decoration: none;
+  padding: 0 50px;
   display: block;
 }
-.details {
-  position: static;
+ol li a .icon
+{
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  overflow: hidden;
+  margin: 0 auto 10px;
+}
+ol li a .icon .fas
+{
+  width: 100%;
+  height: 100%;
+  line-height: 40px;
+  font-size: 34px;
+  transition: 0.5s;
+  color:#000;
+}
+ol li a .icon .fas:last-child
+{
+  color: #e91e63;
+}
+ol li a:hover .icon .fas
+{
+  transform: translateY(-100%)
+}
+ol li a .name
+{
+  position: relative;
+  height: 20px;
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+ol li a .name span
+{
+  display: block;
+  position: relative;
+  color: #000;
+  font-size: 10px;
+  line-height: 20px;
+  transition: 0.5s;
+}
+ol li a .name span:before
+{
+  content: attr(data-text);
+  position: absolute;
+  top: -100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #e91e63;
+}
+ol li a:hover .name span
+{
+  transform: translateY(20px);
+}
+ol li a .icon .fab
+{
+  width: 100%;
+  height: 100%;
+  line-height: 40px;
+  font-size: 34px;
+  transition: 0.5s;
+  color:#000;
+}
+ol li a .icon .fab:last-child
+{
+  color: #e91e63;
+}
+ol li a:hover .icon .fab
+{
+  transform: translateY(-100%)
 }
