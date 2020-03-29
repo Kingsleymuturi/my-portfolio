@@ -15,7 +15,7 @@ h1 {
 @media screen and (min-width: 768px) {}
 .important {
   background-color: rgb(199, 181, 164);
-  font-size: 25px;
+  font-size: 20px;
 }
 .sticky {
   position: -webkit-sticky;
@@ -54,7 +54,7 @@ ol
 {
   position: absolute;
   top: 90%;
-  left: 45%;
+  left: 50%;
   transform: translate(-50%,-50%);
   margin: 0;
   padding: 10px 0;
