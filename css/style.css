@@ -6,7 +6,6 @@
 .header
 {
   background: rgba(0,0,100,0.4);
-  height: 100vh;
 }
 .video-background
 {
@@ -54,7 +53,7 @@
 {
   font-size: 30px;
   background-color: beige;
-  margin: 29pc;
+  margin: auto;
   padding: 20px 80px;
   border: 1px solid coral;
   border-radius: 25px;
