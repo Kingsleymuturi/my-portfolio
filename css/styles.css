@@ -153,3 +153,14 @@ ol li a:hover .icon .fab
 {
   transform: translateY(-100%)
 }
+#mywork {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
